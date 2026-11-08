@@ -1,120 +1,137 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Drawer render boolean 1`] = `
-<div>
-  <div
-    class=""
-  >
-    <div
-      class="drawer drawer-left drawer-open"
-      tabindex="-1"
-    >
+<body>
+  <div>
+    <div>
       <div
-        class="drawer-mask"
+        class="main"
+        style="transition: transform .3s cubic-bezier(0.78, 0.14, 0.15, 0.86);"
       />
       <div
-        class="drawer-content-wrapper"
-        style=""
+        class=""
       >
         <div
-          class="drawer-content"
+          class="drawer drawer-left drawer-open"
+          tabindex="-1"
         >
-          <p
-            class="text"
-          >
-            Here is content of Drawer
-          </p>
-        </div>
-        <div
-          class="drawer-handle"
-        >
-          <i
-            class="drawer-handle-icon"
+          <div
+            class="drawer-mask"
           />
+          <div
+            class="drawer-content-wrapper"
+            style=""
+          >
+            <div
+              class="drawer-content"
+            >
+              <p
+                class="text"
+              >
+                Here is content of Drawer
+              </p>
+            </div>
+            <div
+              class="drawer-handle"
+            >
+              <i
+                class="drawer-handle-icon"
+              />
+            </div>
+          </div>
         </div>
       </div>
     </div>
   </div>
-</div>
+</body>
 `;
 
 exports[`Drawer render dom 1`] = `
-<div>
-  <div
-    class="main ant-scrolling-effect"
-    style="overflow: hidden; overflow-x: hidden; overflow-y: hidden;"
-  >
+<body>
+  <div>
     <div>
       <div
-        class="drawer drawer-left drawer-open"
-        tabindex="-1"
+        class="main ant-scrolling-effect"
+        style="overflow: hidden; overflow-x: hidden; overflow-y: hidden;"
       >
-        <div
-          class="drawer-mask"
-        />
-        <div
-          class="drawer-content-wrapper"
-          style=""
-        >
+        <div>
           <div
-            class="drawer-content"
+            class="drawer drawer-left drawer-open"
+            tabindex="-1"
           >
-            <p
-              class="text"
-            >
-              Here is content of Drawer
-            </p>
-          </div>
-          <div
-            class="drawer-handle"
-          >
-            <i
-              class="drawer-handle-icon"
+            <div
+              class="drawer-mask"
             />
+            <div
+              class="drawer-content-wrapper"
+              style=""
+            >
+              <div
+                class="drawer-content"
+              >
+                <p
+                  class="text"
+                >
+                  Here is content of Drawer
+                </p>
+              </div>
+              <div
+                class="drawer-handle"
+              >
+                <i
+                  class="drawer-handle-icon"
+                />
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
+</body>
 `;
 
 exports[`Drawer render function 1`] = `
-<div>
-  <div
-    class="main"
-  >
+<body>
+  <div>
     <div>
       <div
-        class="drawer drawer-left drawer-open"
-        tabindex="-1"
+        class="main ant-scrolling-effect"
+        style="overflow: hidden; overflow-x: hidden; overflow-y: hidden;"
       >
-        <div
-          class="drawer-mask"
-        />
-        <div
-          class="drawer-content-wrapper"
-          style=""
-        >
+        <div>
           <div
-            class="drawer-content"
+            class="drawer drawer-left drawer-open"
+            tabindex="-1"
           >
-            <p
-              class="text"
-            >
-              Here is content of Drawer
-            </p>
-          </div>
-          <div
-            class="drawer-handle"
-          >
-            <i
-              class="drawer-handle-icon"
+            <div
+              class="drawer-mask"
             />
+            <div
+              class="drawer-content-wrapper"
+              style=""
+            >
+              <div
+                class="drawer-content"
+              >
+                <p
+                  class="text"
+                >
+                  Here is content of Drawer
+                </p>
+              </div>
+              <div
+                class="drawer-handle"
+              >
+                <i
+                  class="drawer-handle-icon"
+                />
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
+</body>
 `;
